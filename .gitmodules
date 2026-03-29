@@ -1,3 +1,6 @@
 [submodule "CoffeeKioskSystem"]
 	path = CoffeeKioskSystem
 	url = https://github.com/rainnn19/CoffeeKioskSystem.git
+[submodule "Coffee-Shop-Project"]
+	path = Coffee-Shop-Project
+	url = https://github.com/rainnn19/Coffee-Shop-Project.git
