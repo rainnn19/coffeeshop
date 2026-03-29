@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Distribution
+dist/
+build/
+*.egg-info/
